@@ -156,14 +156,14 @@ ClearSky es un software limpio con codigo de alta calidad.<br>
  - 最適化されたPHP環境(bin): [ClearSkyTeam/PHPbinary](https://github.com/ClearSkyTeam/PHPbinary).
  - Multicraftの設定例: [ClearSkyTeam/MulticraftConfig](https://github.com/ClearSkyTeam/MulticraftConfig).
 
-## [重要]: 本番ではXdebugを削除してください
+## [重要]: ClearSkyを実行するときはXdebugを削除してください
  - あなたのphp.iniから"zend_extension=php_xdebug"をコメントアウトするか、Xdebug無しでPHPを再コンパイルしてください。
  - pocketmine.ymlで強制的にXdebugを有効にすることも出来ます。
 
 ## 高度な機能
 全ての機能はpocketmine.ymlで設定することができます。<br>
  - 公式PocketMine-MPよりも20倍早く動きます
- - 複数のバージョンに同時に対応 (例えば、0.14.0でビルドを行ったら、0.14.1, 0.14.2などでも一緒に入れます。)(脚注1)
+ - 複数のバージョンに同時に対応 (例えば、0.14.0でビルドで起動しても、0.14.1, 0.14.2などでも一緒に入れます。)(脚注1)
  - プレイヤー数を無制限に (server.propertiesの"max-players"を"-1"にしてください。)(脚注2)
  - バージョンの色と文字を自由に変更できます。 (pocketmine.ymlの"network.protocol"を変更してください。)
  - 通信環境が悪いネットワークでも、パケットロスの許容数を増やせてチート対策が行えます。
@@ -187,7 +187,7 @@ ClearSky es un software limpio con codigo de alta calidad.<br>
 ## 開発者へ
 これはきれいな、高品質のコードベースです。開発/修正がこのプロジェクトは簡単です。<br>
 私たちは最良な開発状況を保てるよう、常にコードを書き換えています。<br>
-クリアスカイは単にユーザーのために高品質なのではなく、開発者の為にもです！<br>
+クリアスカイは単にユーザーのために高品質なのではなく、開発者の為にも高品質であります<br>
 
 
 # <a name="UKR"></a>Українська мова
