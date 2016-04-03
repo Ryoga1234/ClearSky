@@ -151,7 +151,7 @@ ClearSky es un software limpio con codigo de alta calidad.<br>
  - [ここを見て 70個のプラグイン・20個のワールド と共に、早いClearSkyを始めましょう！](http://wolvesfortress.de/ezgif-1446650535.gif)
  - 公式テストサーバー: Creative (IP: WolvesFortress.de, Port: **19134**) *基本的にはオフラインですが、もしオンラインの場合は最新バージョンです。*
 
-## どこで私はpharを手に入れれますか？
+## どこで私はpharをダウンロードできますか？
  - 自動でビルドされたphar: [Jenkins CI](http://jenkins.clearskyteam.org/).
  - 最適化されたPHP環境(bin): [ClearSkyTeam/PHPbinary](https://github.com/ClearSkyTeam/PHPbinary).
  - Multicraftの設定例: [ClearSkyTeam/MulticraftConfig](https://github.com/ClearSkyTeam/MulticraftConfig).
@@ -185,7 +185,7 @@ ClearSky es un software limpio con codigo de alta calidad.<br>
 脚注2: "Full server"のメッセージが表示された場合、CustomAlertプラグインなどで無効化してください。
 
 ## 開発者へ
-これはきれいな、高品質のコードベースです。開発/修正がこのプロジェクトは簡単です。<br>
+これはきれいな、高品質のコードベースです。開発/修正がこのプロジェクトでは簡単です。<br>
 私たちは最良な開発状況を保てるよう、常にコードを書き換えています。<br>
 クリアスカイは単にユーザーのために高品質なのではなく、開発者の為にもです！<br>
 
